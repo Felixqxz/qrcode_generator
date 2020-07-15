@@ -1,2 +1,2 @@
 # qrcode_generator
-generate QR code for webs
+chrome extension of generating QR codes
